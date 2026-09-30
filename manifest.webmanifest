@@ -1,0 +1,10 @@
+{
+  "name": "ESPORTS OWNER",
+  "short_name": "ESPORTS OWNER",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "ESPORTS OWNER mobile web prototype"
+}
